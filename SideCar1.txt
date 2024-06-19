@@ -1,1 +1,2 @@
 SideCar Diagram 1 : DIAGRAM ABC
+In TempporaryMedian, SideCar needs UI Changes
