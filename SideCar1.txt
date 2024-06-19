@@ -1,1 +1,2 @@
 SideCar Diagram 1 : DIAGRAM ABC
+SideCar Feature needs a docking capability in Loyalty Lite App UI.
